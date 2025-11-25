@@ -12,7 +12,7 @@ This repository contains a simplified, easy‑to‑read Power BI report that ana
 This Power BI report breaks down how the business is performing **this year (YTD)** compared to **last year (PYTD)**. It highlights:
 
 * Total YTD results
-* A big **-5M decline vs PYTD** 😬
+* A big **-5M decline vs PYTD**
 * Margin performance (GP%)
 * Worst‑performing countries
 * Monthly trends
