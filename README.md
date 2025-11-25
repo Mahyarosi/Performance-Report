@@ -6,7 +6,7 @@ This repository contains a simplified, easy‑to‑read Power BI report that ana
 
 ## 1. Overview
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Mahyarosi/Performance-Report/blob/main/Performance%20Report.png)
 
 
 This Power BI report breaks down how the business is performing **this year (YTD)** compared to **last year (PYTD)**. It highlights:
